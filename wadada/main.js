@@ -20,5 +20,11 @@ document.querySelector('#app').innerHTML = `
     </p>
   </div>
 `
+/**
+ * 화면 구성
+ */
 
+/**
+ * matterjs 제작
+ */
 setupCounter(document.querySelector('#counter'))
