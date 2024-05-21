@@ -1,14 +1,14 @@
 export const IMAGES = [
   {
-    label: "00_cherry",
+    label: "차은우",
     radius: 120 / 2,
   },
   {
-    label: "01_strawberry",
+    label: "정해인",
     radius: 120 / 2,
   },
   {
-    label: "02_grape",
+    label: "포도",
     radius: 61 / 2,
   },
   
