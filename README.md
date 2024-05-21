@@ -15,6 +15,10 @@ npm install
 npm run dev
 ```
 
+```
+start 버튼을 눌러 화면 이동 후, 's' 키를 입력하면 이미지가 생성됩니다. 
+```
+
 ## 만든이
  
 <table>
