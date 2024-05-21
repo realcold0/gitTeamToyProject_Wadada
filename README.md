@@ -8,7 +8,7 @@
 </p>
 
 
-## 기술 스택
+## 만든이
 
 <table>
   <tbody>
@@ -17,6 +17,7 @@
       <td align="center"><a href="https://github.com/realcold0"><img src="https://avatars.githubusercontent.com/u/65608503?v=4" width="100px;" alt=""/><br /><sub><b> 이승환 </b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/lee-JunR"><img src="https://avatars.githubusercontent.com/u/68640939?v=4" width="100px;" alt=""/><br /><sub><b> 이준렬 </b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/sooojChoi"><img src="https://avatars.githubusercontent.com/u/94206303?v=4" width="100px;" alt=""/><br /><sub><b> 최수진 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Taeyong98"><img src="https://avatars.githubusercontent.com/u/163623205?v=4" width="100px;" alt=""/><br /><sub><b> 장태용 </b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
@@ -32,9 +33,9 @@
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  Node   |
-| :--------: | :--------: | :-----: |
-|   ![js]    |   ![ts]    | ![node] |
+| JavaScript | TypeScript |  Node   |Vite|
+| :--------: | :--------: | :------: |:---:|
+|   ![js]    |   ![ts]    | ![node] |![vite]|
 
 <br>
 
@@ -69,3 +70,4 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 [ts]: /images/stack/matterjst.png
 [react]: /images/stack/react.svg
 [node]: /images/stack/node.svg
+[vite]: /images/stack/vite.png
