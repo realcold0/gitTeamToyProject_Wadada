@@ -1,0 +1,47 @@
+body {
+    background: #000000;
+}
+
+#wrapper {
+    position: relative;
+    background-image: url("gameboy.png");
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+    text-align: center;
+}
+#wrapper h1 {
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+#startBtn {
+    width: 105px;
+    height: 35px;
+    background: url("start.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+
+#container {
+    display: inline-block;
+    margin-top: 80px;
+    height: 270px;
+    width: 430px;
+}
+
+#wrapper p {
+    text-align: center;
+    color: darkturquoise;
+    font-weight: bold;
+    font-size: 35px;
+    display: none;
+}
+#wrapper button {
+    margin-top: 200px;
+    padding: 10px;
+}
