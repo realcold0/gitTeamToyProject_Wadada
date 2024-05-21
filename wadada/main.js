@@ -19,8 +19,8 @@ import Matter from 'matter-js'
 
 // module aliases
 
-const browserWidth = document.querySelector("#wrapper").clientWidth;
-const browserHeight = document.querySelector("#wrapper").clientHeight;
+const browserWidth = document.querySelector("#container").clientWidth;
+const browserHeight = document.querySelector("#container").clientHeight;
 var Engine = Matter.Engine,
     Render = Matter.Render,
     Runner = Matter.Runner,
@@ -34,7 +34,7 @@ var engine = Engine.create();
 
 // create a renderer
 var render = Render.create({
-    element: document.getElementById("wrapper"),
+    element: document.getElementById("container"),
     engine: engine,
     options:{
       width: browserWidth,
