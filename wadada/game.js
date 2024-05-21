@@ -30,14 +30,7 @@ const ground = Bodies.rectangle(310, 820, 620, 60, { // x,y,height,width
   isStatic: true,
   render: {fillStyle: "#000000"} 
 });
-/** 천장 벽 */
-const topLine = Bodies.rectangle(310, 150, 620, 2, { // x,y,height,width
-  isStatic: true,
-  isSensor: true,
-  render: {fillStyle: "#000000"}
-});
-
-World.add(world, [leftWall, rightWall, ground, topLine]);
+World.add(world, [leftWall, rightWall, ground]);
 
 Render.run(render);
 Runner.run(engine);
@@ -116,11 +109,12 @@ let makeCheckGroup = function(imgSrc){
     let result="";
     let index=0;
 
-    result += `<div>`;
+    result += `<div class="p-4" >`;
     imgSrc.forEach(i => {
       result += 
-      `<input type="checkbox" id="cb${index}" value="${i.label}" style="margin-right: 5px;">
-      ${i.label}</input><span style="margin-right:5px;"></span>`;
+      `<input type="checkbox" id="cb${index}" value="${i.label}" class="form-check-input">
+      <label class="form-check-label text-white"> ${i.label}</label>
+      </input><span style="margin-right:15px;"></span>`;
       index++;
     });
     result += `</div>`;
