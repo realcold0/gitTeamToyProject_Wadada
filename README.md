@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <!-- <img src="./images/common/logo-sample.jpeg"> -->
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.isPfDEYdzeW6tGPi7gGAyQHaDH%26pid%3DApi&f=1&ipt=3c27aac29e4a3ef14fbfd5aa777386678a5fd047bdbf7560194cd161dfb4db0f&ipo=images">
+  <img src="https://github.com/realcold0/gitTeamToyProject_Wadada/assets/65608503/aed3548c-b90d-4e1c-b77e-a49e3bf9ea9f">
   <br>
 </p>
 
