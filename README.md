@@ -2,18 +2,24 @@
 
 <p align="center">
   <br>
-  <!-- <img src="./images/common/logo-sample.jpeg"> -->
   <img src="https://github.com/realcold0/gitTeamToyProject_Wadada/assets/65608503/aed3548c-b90d-4e1c-b77e-a49e3bf9ea9f">
   <br>
 </p>
 
+## 실행 방법
+
+```
+git clone https://github.com/realcold0/gitTeamToyProject_Wadada
+cd gitTeamToyProject_Wadada
+npm install
+npm run dev
+```
 
 ## 만든이
  
 <table>
   <tbody>
     <tr>
-      <!-- <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td> -->
       <td align="center"><a href="https://github.com/realcold0"><img src="https://avatars.githubusercontent.com/u/65608503?v=4" width="100px;" alt=""/><br /><sub><b> 이승환 </b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/lee-JunR"><img src="https://avatars.githubusercontent.com/u/68640939?v=4" width="100px;" alt=""/><br /><sub><b> 이준렬 </b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/sooojChoi"><img src="https://avatars.githubusercontent.com/u/94206303?v=4" width="100px;" alt=""/><br /><sub><b> 최수진 </b></sub></a><br /></td>
